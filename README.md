@@ -81,3 +81,9 @@ Prioritize peer-reviewed literature and academic books from Elsevier, the Royal 
 
 ## Contributing and safety
 Submit corrections with DOI/publisher evidence. Lessons must distinguish established industrial practice from laboratory demonstrations and proposed methods. REE processing can involve corrosive reagents, high temperatures, fine particulates, and thorium/uranium-bearing residues in some ores. Use appropriate training, risk assessment, environmental controls, and institutional approvals. This repository is educational, not a substitute for site-specific safety procedures.
+
+## Lessons published | درس‌های منتشرشده
+- [Lesson 01 — Fundamentals of REE Chemistry](01_REE_Chemistry/Lesson_01_Fundamentals.md)
+- [Lesson 02 — Mineralogy and Geology of REE Resources](02_Mineralogy_and_Ore_Geology/Lesson_02_Mineralogy_and_Geology.md)
+- [Lesson 03 — Beneficiation of REE Ores](03_Beneficiation/Lesson_03_Beneficiation_of_REE_Ores.md)
+- [Beneficiation references](11_References/Beneficiation_REE_References.md)
