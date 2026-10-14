@@ -90,3 +90,6 @@ Submit corrections with DOI/publisher evidence. Lessons must distinguish establi
 
 - [Lesson 04 — Pretreatment and Hydrometallurgical Extraction](04_Hydrometallurgy/Lesson_04_Pretreatment_and_Hydrometallurgical_Extraction.md)
 - [Hydrometallurgy references](11_References/Hydrometallurgy_REE_References.md)
+
+- [Lesson 05 — Separation and Purification of Individual REEs](05_Separation_and_Purification/Lesson_05_Separation_and_Purification_of_REEs.md)
+- [REE separation and purification references](11_References/REE_Separation_and_Purification_References.md)
