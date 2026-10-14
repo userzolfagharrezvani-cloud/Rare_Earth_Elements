@@ -87,3 +87,6 @@ Submit corrections with DOI/publisher evidence. Lessons must distinguish establi
 - [Lesson 02 — Mineralogy and Geology of REE Resources](02_Mineralogy_and_Ore_Geology/Lesson_02_Mineralogy_and_Geology.md)
 - [Lesson 03 — Beneficiation of REE Ores](03_Beneficiation/Lesson_03_Beneficiation_of_REE_Ores.md)
 - [Beneficiation references](11_References/Beneficiation_REE_References.md)
+
+- [Lesson 04 — Pretreatment and Hydrometallurgical Extraction](04_Hydrometallurgy/Lesson_04_Pretreatment_and_Hydrometallurgical_Extraction.md)
+- [Hydrometallurgy references](11_References/Hydrometallurgy_REE_References.md)
