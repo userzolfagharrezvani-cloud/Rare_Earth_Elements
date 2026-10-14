@@ -99,3 +99,6 @@ Submit corrections with DOI/publisher evidence. Lessons must distinguish establi
 
 - [Lesson 07 — Industrial Applications of REEs](07_Industrial_Applications/Lesson_07_Industrial_Applications_of_REEs.md)
 - [REE industrial applications references](11_References/REE_Industrial_Applications_References.md)
+
+- [Lesson 08 — Characterization and Analytical Methods for REEs](08_Characterization/Lesson_08_Characterization_and_Analytical_Methods_for_REEs.md)
+- [REE characterization references and analytical resources](11_References/REE_Characterization_References.md)
