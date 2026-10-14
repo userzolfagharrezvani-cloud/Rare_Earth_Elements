@@ -96,3 +96,6 @@ Submit corrections with DOI/publisher evidence. Lessons must distinguish establi
 
 - [Lesson 06 — Secondary Resources and REE Recycling](06_Recycling_and_Secondary_Resources/Lesson_06_REE_Recycling_and_Secondary_Resources.md)
 - [REE recycling references](11_References/REE_Recycling_References.md)
+
+- [Lesson 07 — Industrial Applications of REEs](07_Industrial_Applications/Lesson_07_Industrial_Applications_of_REEs.md)
+- [REE industrial applications references](11_References/REE_Industrial_Applications_References.md)
