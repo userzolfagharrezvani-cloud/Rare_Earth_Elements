@@ -65,6 +65,12 @@ Prioritize peer-reviewed literature and academic books from Elsevier, the Royal 
 - `10_Infographics/` — original diagrams
 - `11_References/` — DOI-linked bibliography
 
+
+## Lessons published | درس‌های منتشرشده
+- [Lesson 01 — Fundamentals of REE Chemistry](01_REE_Chemistry/Lesson_01_Fundamentals.md) — مبانی شیمی عناصر خاکی کمیاب
+- [Lesson 02 — Mineralogy and Geology of REE Resources](02_Mineralogy_and_Ore_Geology/Lesson_02_Mineralogy_and_Geology.md) — کانی‌شناسی و زمین‌شناسی منابع
+- [Lesson 02 bibliography — Ore mineralogy](11_References/REE_Ore_Mineralogy_References.md) — کتاب‌نامه تخصصی کانی‌شناسی
+
 ## Starter reading | منابع آغازین
 - Voncken, J. H. L. *The Rare Earth Elements: An Introduction*. Springer (2016). https://doi.org/10.1007/978-3-319-26809-5
 - “Processing the ores of rare-earth elements.” *MRS Bulletin* (Springer Nature). https://doi.org/10.1557/s43577-022-00288-4
